@@ -16,7 +16,7 @@ Includes a specialized tool node to retrieve historical data, allowing the agent
 Implements message trimming to keep the context window focused on the most recent and relevant interactions.
 
 ## **Technical Requirements:**
-### Orchestration Framework:  LangGraph (v0.4.2+)
-### Memory Stores:     MemorySaver or external database integration for persistent history
-### State Management:    StateGraph with robust schema validation
-* **Environment:**   Python Virtual Environment with strictly managed API keys 
+* **Orchestration Framework:** LangGraph (v0.4.2+)
+* **Memory Stores:** MemorySaver or external database integration for persistent history
+* **State Management:**  StateGraph with robust schema validation
+* **Environment:** Python Virtual Environment with strictly managed API keys 
