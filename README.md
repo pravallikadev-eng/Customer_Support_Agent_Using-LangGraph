@@ -4,8 +4,7 @@ The primary goal of this project is to build an AI-driven representative capable
 
 ## **Core Capabilities:**
 
-### **State & Memory Management:**     
-Utilizes a custom AgentState schema to manage short-term session messages and long-term user history.
+* **State & Memory Management:** Utilizes a custom AgentState schema to manage short-term session messages and long-term user history.
 ### Intelligent Routing:
 Employs a StateGraph with a reducer to manage message updates and direct queries to appropriate processing nodes.
 ### Human-in-the-Loop (HITL) Integration: 
