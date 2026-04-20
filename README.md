@@ -1,4 +1,4 @@
-**#Project Summary: AI Customer Support Agent**
+**# Project Summary: AI Customer Support Agent**
 
 The primary goal of this project is to build an AI-driven representative capable of managing frequent customer questions, tracking detailed conversation histories across sessions, and utilizing a Human-in-the-Loop (HITL) process for complex escalations. The agent ensures a personalized experience by referencing long-term user history and maintains efficiency by managing message context through trimming and filtering.
 
