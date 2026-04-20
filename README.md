@@ -19,4 +19,4 @@ Implements message trimming to keep the context window focused on the most recen
 ### Orchestration Framework:  LangGraph (v0.4.2+)
 ### Memory Stores:     MemorySaver or external database integration for persistent history
 ### State Management:    StateGraph with robust schema validation
-* Environment:     Python Virtual Environment with strictly managed API keys 
+* **Environment:  **   Python Virtual Environment with strictly managed API keys 
